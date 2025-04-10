@@ -47,7 +47,7 @@ It was developed as part of an internship project under the brand **BobXploit** 
 ## 🏁 How to Run
 
 ```bash
-git clone https://github.com/yourusername/bobPassGen.git
+git clone https://github.com/abanop22333/bobPassGen.git
 cd bobPassGen
 pip install -r requirements.txt
 python bobPassGen.py
